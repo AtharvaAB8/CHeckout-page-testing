@@ -1,0 +1,6 @@
+actor: CyberchimpsTester
+modules:
+    enabled:
+     - WebDriver:
+            url: 'https://cyberchimps.com/'
+            browser: chrome
